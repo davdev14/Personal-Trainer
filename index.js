@@ -1,3 +1,1 @@
-const buttonEL = document.querySelector(".dropdown-btn")
-
-
+const buttonEl = document.querySelector('.dropdown-btn')
